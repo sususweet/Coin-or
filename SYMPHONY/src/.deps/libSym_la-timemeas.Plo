@@ -1,0 +1,63 @@
+libSym_la-timemeas.lo: Common/timemeas.c \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/stdio.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/crtdefs.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_mac.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_secapi.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/vadefs.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/sdks/_mingw_directx.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/sdks/_mingw_ddk.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_print_push.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_off_t.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/swprintf.inl \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/sec_api/stdio_s.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_print_pop.h \
+ ../include/sym_timemeas.h ../include/sym_win32_time.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/time.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/_timeval.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/sys/timeb.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/sec_api/sys/timeb_s.h \
+ /usr/i686-w64-mingw32/sys-root/mingw/include/pthread_time.h \
+ ../include/sym_proto.h
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/stdio.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/crtdefs.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_mac.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_secapi.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/vadefs.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/sdks/_mingw_directx.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/sdks/_mingw_ddk.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_print_push.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_off_t.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/swprintf.inl:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/sec_api/stdio_s.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_mingw_print_pop.h:
+
+../include/sym_timemeas.h:
+
+../include/sym_win32_time.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/time.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/_timeval.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/sys/timeb.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/sec_api/sys/timeb_s.h:
+
+/usr/i686-w64-mingw32/sys-root/mingw/include/pthread_time.h:
+
+../include/sym_proto.h:

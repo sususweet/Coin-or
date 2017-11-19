@@ -1,0 +1,11 @@
+prefix=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY
+libdir=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/src/OsiSym
+includedir=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/src/OsiSym
+
+Name: OsiSym
+Description: COIN-OR Open Solver Interface for SYMPHONY
+URL: https://projects.coin-or.org/Osi
+Version: 5.6.16
+Libs: ${libdir}/libOsiSym.la
+Cflags: -I/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/src/OsiSym
+Requires: osi symphony

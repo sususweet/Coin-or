@@ -1,0 +1,11 @@
+prefix=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY
+libdir=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/src
+includedir=/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/include
+
+Name: SYMPHONY
+Description: SYMPHONY MILP Solver Framework
+URL: https://projects.coin-or.org/SYMPHONY
+Version: 5.6.16
+Libs: ${libdir}/libSym.la 
+Cflags: -I/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/include -I/cygdrive/h/Java/Bonmin-1.8.6/SYMPHONY/include
+Requires: cgl osi-clp coinutils osi 
