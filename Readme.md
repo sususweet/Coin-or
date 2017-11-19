@@ -10,7 +10,6 @@ Windows 下 MingGW 编译流程如下：
 ```
 configure --enable-shared --enable-static --enable-dependency-linking lt_cv_deplibs_check_method=pass_all
 make
-make install 
 ```
 
 对于 32 位的 MingGW 编译器，在 `configure` 后增加选项
