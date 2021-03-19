@@ -1,6 +1,8 @@
 Coin-or 规划问题求解库
 ===========
 
+https://projects.coin-or.org/BuildTools
+
 Windows 下 MingGW 编译流程如下：
 
 + 下载上面的源代码，并按照 `ThirdParty` 目录里的提示下载第三方库。
